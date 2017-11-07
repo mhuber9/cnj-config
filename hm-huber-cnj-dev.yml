@@ -1,5 +1,3 @@
-server:
- port: 8000
 cnj:
  info:
   message: DEV-Konfiguration aus Codebase!
