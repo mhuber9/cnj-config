@@ -1,0 +1,7 @@
+applications:
+- name: hm-huber-config-server
+  path: target/config-server-0.1.0-SNAPSHOT.jar
+  instances: 1
+  memory: 800M
+  env:
+    gitrepo: https://github.com/mhuber9/cnj-config
